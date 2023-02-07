@@ -1,0 +1,18 @@
+.name {
+    font: bold;
+    border: 2px dotted aqua;
+    background-color: honeydew;
+    border-radius: 15px;
+    margin: 1px 10px;
+    padding: 5px 5px;
+}
+
+.link {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+strong {
+    font-size: large;
+}
